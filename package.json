@@ -1,0 +1,9 @@
+{
+  "overrides": {
+    "autoprefixer": "10.4.5"
+  },
+  "dependencies": {
+    "install": "^0.13.0",
+    "react-router-dom": "^6.3.0"
+  }
+}
